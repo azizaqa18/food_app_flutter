@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "729355381748",
+    "project_id": "food-app-sushi",
+    "storage_bucket": "food-app-sushi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729355381748:android:67957e3c4b900d25e567a1",
+        "android_client_info": {
+          "package_name": "com.example.food_app_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "729355381748-dgr9hoapcdjbbfjsmb2d06v9tm7pcqjn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAA7iYh1IUSt9S9u5I01OCjHB1cEfYUCx0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "729355381748-dgr9hoapcdjbbfjsmb2d06v9tm7pcqjn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
